@@ -1,0 +1,2087 @@
+[
+    {
+        "Maker": "Acura",
+        "Model": "MDX",
+        "Type": "motokar_pelbagai_utiliti"
+    },
+    {
+        "Maker": "Alfa Romeo",
+        "Model": "1750 Spider",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Aston Martin",
+        "Model": "DB12",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Aston Martin",
+        "Model": "DB6",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Aston Martin",
+        "Model": "Valour",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Aston Martin",
+        "Model": "Vantage",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Audi",
+        "Model": "A3 Sedan",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Audi",
+        "Model": "A4",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Audi",
+        "Model": "A5",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Audi",
+        "Model": "A7",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Audi",
+        "Model": "A8",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Audi",
+        "Model": "E-tron",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Audi",
+        "Model": "Q3",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Audi",
+        "Model": "Q5",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Audi",
+        "Model": "Q8",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Audi",
+        "Model": "R8",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Audi",
+        "Model": "RS Q3",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Audi",
+        "Model": "RS Q8",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Audi",
+        "Model": "RS e-tron GT",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Audi",
+        "Model": "RS3",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Audi",
+        "Model": "RS4",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Audi",
+        "Model": "RS6",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Audi",
+        "Model": "RS7",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Audi",
+        "Model": "S3",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Audi",
+        "Model": "S5 Sportback",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Audi",
+        "Model": "SQ5",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Audi",
+        "Model": "TT",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "BAW",
+        "Model": "BJ6550",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "BMW",
+        "Model": "1 Series",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "BMW",
+        "Model": "2 Series",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "BMW",
+        "Model": "3 Series",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "BMW",
+        "Model": "4 Series",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "BMW",
+        "Model": "5 Series",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "BMW",
+        "Model": "6 Series",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "BMW",
+        "Model": "7 Series",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "BMW",
+        "Model": "8 Series",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "BMW",
+        "Model": "Alpina B3",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "BMW",
+        "Model": "Clubman",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "BMW",
+        "Model": "Cooper",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "BMW",
+        "Model": "X1",
+        "Type": "jip"
+    },
+    {
+        "Maker": "BMW",
+        "Model": "X2",
+        "Type": "jip"
+    },
+    {
+        "Maker": "BMW",
+        "Model": "X2",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "BMW",
+        "Model": "X3",
+        "Type": "jip"
+    },
+    {
+        "Maker": "BMW",
+        "Model": "X3",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "BMW",
+        "Model": "X4",
+        "Type": "jip"
+    },
+    {
+        "Maker": "BMW",
+        "Model": "X5",
+        "Type": "jip"
+    },
+    {
+        "Maker": "BMW",
+        "Model": "X6",
+        "Type": "jip"
+    },
+    {
+        "Maker": "BMW",
+        "Model": "X7",
+        "Type": "jip"
+    },
+    {
+        "Maker": "BMW",
+        "Model": "XM",
+        "Type": "jip"
+    },
+    {
+        "Maker": "BMW",
+        "Model": "Z4",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "BMW",
+        "Model": "i4",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "BMW",
+        "Model": "i5",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "BMW",
+        "Model": "i7",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "BMW",
+        "Model": "i8",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "BMW",
+        "Model": "iX",
+        "Type": "jip"
+    },
+    {
+        "Maker": "BMW",
+        "Model": "iX1",
+        "Type": "jip"
+    },
+    {
+        "Maker": "BMW",
+        "Model": "iX2",
+        "Type": "jip"
+    },
+    {
+        "Maker": "BMW",
+        "Model": "iX3",
+        "Type": "jip"
+    },
+    {
+        "Maker": "BYD",
+        "Model": "Atto 3",
+        "Type": "jip"
+    },
+    {
+        "Maker": "BYD",
+        "Model": "Dolphin",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "BYD",
+        "Model": "M6",
+        "Type": "motokar_pelbagai_utiliti"
+    },
+    {
+        "Maker": "BYD",
+        "Model": "Seal",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "BYD",
+        "Model": "Sealion",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Bentley",
+        "Model": "Bentayga",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Bentley",
+        "Model": "Continental Flying Spur",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Bentley",
+        "Model": "Continental GT",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Bentley",
+        "Model": "Mulsanne",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Boon Koon",
+        "Model": "Van",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Cam",
+        "Model": "Kingo",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Cam",
+        "Model": "Placer-X",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Chery",
+        "Model": "Jaecoo J7",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Chery",
+        "Model": "Omoda 5",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Chery",
+        "Model": "Omoda 9",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Chery",
+        "Model": "Tiggo",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Chevrolet",
+        "Model": "Corvette",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Chevrolet",
+        "Model": "Cruze",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Daihatsu",
+        "Model": "Copen",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Daihatsu",
+        "Model": "Mira",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Daihatsu",
+        "Model": "Move",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Daihatsu",
+        "Model": "Move Canbus",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Daihatsu",
+        "Model": "Taft",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Daihatsu",
+        "Model": "Taft",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Daihatsu",
+        "Model": "Tanto",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Daimler",
+        "Model": "Vigus",
+        "Type": "pick_up"
+    },
+    {
+        "Maker": "Denza",
+        "Model": "D9 Advanced",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Denza",
+        "Model": "D9 Advanced",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Denza",
+        "Model": "D9 Premium",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Denza",
+        "Model": "D9 Premium",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Dodge",
+        "Model": "Challenger",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Dong Feng",
+        "Model": "Box E3",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Ferrari",
+        "Model": "296",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Ferrari",
+        "Model": "488",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Ferrari",
+        "Model": "812",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Ferrari",
+        "Model": "F8",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Ferrari",
+        "Model": "Portofino",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Ferrari",
+        "Model": "Purosangue",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Ferrari",
+        "Model": "Roma",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Ferrari",
+        "Model": "SF90",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Fiat",
+        "Model": "Abarth 595",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Fiat",
+        "Model": "Abarth 695",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Foday",
+        "Model": "NHQ 102",
+        "Type": "pick_up"
+    },
+    {
+        "Maker": "Ford",
+        "Model": "Everest",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Ford",
+        "Model": "F-Series",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Ford",
+        "Model": "F-Series",
+        "Type": "pick_up"
+    },
+    {
+        "Maker": "Ford",
+        "Model": "Focus",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Ford",
+        "Model": "GT",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Ford",
+        "Model": "Mustang",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Ford",
+        "Model": "Ranger",
+        "Type": "pick_up"
+    },
+    {
+        "Maker": "Foton",
+        "Model": "View",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "GAC",
+        "Model": "GS3",
+        "Type": "jip"
+    },
+    {
+        "Maker": "GAC Aion",
+        "Model": "Y Plus Premium",
+        "Type": "jip"
+    },
+    {
+        "Maker": "GAC Aion",
+        "Model": "Y Plus Standard",
+        "Type": "jip"
+    },
+    {
+        "Maker": "GAC Hyptec",
+        "Model": "HT Premium",
+        "Type": "jip"
+    },
+    {
+        "Maker": "GAC Hyptec",
+        "Model": "HT Ultra",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Go Auto",
+        "Model": "Yukon XL",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Great Wall",
+        "Model": "Haval H6",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Great Wall",
+        "Model": "Ora",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Great Wall",
+        "Model": "Tank 300",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Great Wall",
+        "Model": "Tank 500",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Higer",
+        "Model": "H7V",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "CR-V",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "City",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Civic",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Civic",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "E Advance ",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Fit",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Freed",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "HR-V",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Jade",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Jazz",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "N-Box",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "N-Box",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "N-One",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "NSX",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Odyssey",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Odyssey",
+        "Type": "motokar_pelbagai_utiliti"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Odyssey",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Prelude",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "S660",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "STEPWGN",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Stream",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "Stream",
+        "Type": "motokar_pelbagai_utiliti"
+    },
+    {
+        "Maker": "Honda",
+        "Model": "WR-V",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Hyundai",
+        "Model": "Creta",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Hyundai",
+        "Model": "Ioniq 5",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Hyundai",
+        "Model": "Ioniq 6",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Hyundai",
+        "Model": "Palisade",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Hyundai",
+        "Model": "Santa Fe",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Hyundai",
+        "Model": "Staria",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Hyundai",
+        "Model": "Tucson",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Ineos",
+        "Model": "Grenadier",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Isuzu",
+        "Model": "D-Max",
+        "Type": "pick_up"
+    },
+    {
+        "Maker": "JMC",
+        "Model": "Pickup",
+        "Type": "pick_up"
+    },
+    {
+        "Maker": "JMS",
+        "Model": "Vigus",
+        "Type": "pick_up"
+    },
+    {
+        "Maker": "Jaguar",
+        "Model": "F-Pace",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Jaguar",
+        "Model": "I-Pace",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Jaguar",
+        "Model": "XF",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Jeep",
+        "Model": "Wrangler",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Jetour",
+        "Model": "Dashing",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Jetour",
+        "Model": "X70 Plus",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Kia",
+        "Model": "Carnival",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Kia",
+        "Model": "EV6",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Kia",
+        "Model": "EV9",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Kia",
+        "Model": "Sorento",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Kia",
+        "Model": "Sportage",
+        "Type": "jip"
+    },
+    {
+        "Maker": "King Long Xiamen",
+        "Model": "Placer",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Lamborghini",
+        "Model": "Aventador",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Lamborghini",
+        "Model": "Huracan",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Lamborghini",
+        "Model": "Revuelto",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Lamborghini",
+        "Model": "Urus",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Land Rover",
+        "Model": "Defender",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Land Rover",
+        "Model": "Defender",
+        "Type": "pick_up"
+    },
+    {
+        "Maker": "Land Rover",
+        "Model": "Discovery",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Land Rover",
+        "Model": "Range Rover",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Land Rover",
+        "Model": "Range Rover Evoque",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Land Rover",
+        "Model": "Range Rover Sport",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Land Rover",
+        "Model": "Range Rover Velar",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Land Rover",
+        "Model": "Range Rover Vogue",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Leapmotor",
+        "Model": "C10",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Lexus",
+        "Model": "ES",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Lexus",
+        "Model": "GS",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Lexus",
+        "Model": "IS",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Lexus",
+        "Model": "LBX",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Lexus",
+        "Model": "LC",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Lexus",
+        "Model": "LM",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Lexus",
+        "Model": "LS",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Lexus",
+        "Model": "LX",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Lexus",
+        "Model": "NX",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Lexus",
+        "Model": "NX",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Lexus",
+        "Model": "RC",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Lexus",
+        "Model": "RX",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Lexus",
+        "Model": "RX",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Lexus",
+        "Model": "RX",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Lexus",
+        "Model": "RZ",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Lexus",
+        "Model": "UX",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Lexus",
+        "Model": "ZX",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Lotus",
+        "Model": "Eletre",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Lotus",
+        "Model": "Emeya",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Lotus",
+        "Model": "Emira",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "MG",
+        "Model": "B",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "MG",
+        "Model": "Cyberster",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "MG",
+        "Model": "MG HS",
+        "Type": "jip"
+    },
+    {
+        "Maker": "MG",
+        "Model": "MG4",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "MG",
+        "Model": "MG5",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "MG",
+        "Model": "ZS EV",
+        "Type": "jip"
+    },
+    {
+        "Maker": "MG",
+        "Model": "ZS EV",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Maserati",
+        "Model": "GranTurismo",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Maserati",
+        "Model": "Grecale",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Maserati",
+        "Model": "Levante",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Mazda",
+        "Model": "2",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mazda",
+        "Model": "3",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mazda",
+        "Model": "6",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mazda",
+        "Model": "BT-50",
+        "Type": "pick_up"
+    },
+    {
+        "Maker": "Mazda",
+        "Model": "CX-3",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mazda",
+        "Model": "CX-30",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mazda",
+        "Model": "CX-5",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Mazda",
+        "Model": "CX-8",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Mazda",
+        "Model": "CX-9",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Mazda",
+        "Model": "Fighter",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Mazda",
+        "Model": "MX-30",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Mazda",
+        "Model": "MX-5",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "McLaren",
+        "Model": "720S",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "McLaren",
+        "Model": "Senna",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mclaren",
+        "Model": "GT",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mercedes Benz",
+        "Model": "A-Class",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mercedes Benz",
+        "Model": "AMG GT",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mercedes Benz",
+        "Model": "B-Class",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mercedes Benz",
+        "Model": "C-Class",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mercedes Benz",
+        "Model": "CLA",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mercedes Benz",
+        "Model": "CLE",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mercedes Benz",
+        "Model": "CLK",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mercedes Benz",
+        "Model": "CLS",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mercedes Benz",
+        "Model": "E-Class",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Mercedes Benz",
+        "Model": "E-Class",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mercedes Benz",
+        "Model": "EQA",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Mercedes Benz",
+        "Model": "EQB",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Mercedes Benz",
+        "Model": "EQC",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Mercedes Benz",
+        "Model": "EQE",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Mercedes Benz",
+        "Model": "EQE",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mercedes Benz",
+        "Model": "EQS",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Mercedes Benz",
+        "Model": "EQS",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mercedes Benz",
+        "Model": "G-Class",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Mercedes Benz",
+        "Model": "G-Class",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mercedes Benz",
+        "Model": "GLA",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Mercedes Benz",
+        "Model": "GLA",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mercedes Benz",
+        "Model": "GLB",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Mercedes Benz",
+        "Model": "GLC",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Mercedes Benz",
+        "Model": "GLE",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Mercedes Benz",
+        "Model": "GLE",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mercedes Benz",
+        "Model": "GLS",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Mercedes Benz",
+        "Model": "GT",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mercedes Benz",
+        "Model": "S-Class",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mercedes Benz",
+        "Model": "SL-Class",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mercedes Benz",
+        "Model": "SLC",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mercedes Benz",
+        "Model": "V-Class",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Mercedes Benz",
+        "Model": "Vito",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Mini",
+        "Model": "Aceman",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Mini",
+        "Model": "Clubman",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mini",
+        "Model": "Convertible",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mini",
+        "Model": "Cooper",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mini",
+        "Model": "Countryman",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Mini",
+        "Model": "Countryman",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mini",
+        "Model": "John Cooper Works",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Mini",
+        "Model": "John Cooper Works",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mini",
+        "Model": "One",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mitsubishi",
+        "Model": "Delica",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Mitsubishi",
+        "Model": "Galant",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mitsubishi",
+        "Model": "Grandis",
+        "Type": "motokar_pelbagai_utiliti"
+    },
+    {
+        "Maker": "Mitsubishi",
+        "Model": "Lancer",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mitsubishi",
+        "Model": "Pajero",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Mitsubishi",
+        "Model": "Triton",
+        "Type": "pick_up"
+    },
+    {
+        "Maker": "Mitsubishi",
+        "Model": "Triton",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Mitsubishi",
+        "Model": "Xpander",
+        "Type": "motokar_pelbagai_utiliti"
+    },
+    {
+        "Maker": "Mitsuoka",
+        "Model": "Himiko",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Mitsuoka",
+        "Model": "LX460",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Neta",
+        "Model": "GT",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Neta",
+        "Model": "V",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Neta",
+        "Model": "X",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Nissan",
+        "Model": "Almera",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Nissan",
+        "Model": "Elgrand",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Nissan",
+        "Model": "Fairlady",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Nissan",
+        "Model": "Fairlady Z",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Nissan",
+        "Model": "GT-R",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Nissan",
+        "Model": "Kicks",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Nissan",
+        "Model": "Leaf",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Nissan",
+        "Model": "Navara",
+        "Type": "pick_up"
+    },
+    {
+        "Maker": "Nissan",
+        "Model": "Serena",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Nissan",
+        "Model": "Teana",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Nissan",
+        "Model": "X-Trail",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Perodua",
+        "Model": "Alza",
+        "Type": "motokar_pelbagai_utiliti"
+    },
+    {
+        "Maker": "Perodua",
+        "Model": "Aruz",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Perodua",
+        "Model": "Ativa",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Perodua",
+        "Model": "Axia",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Perodua",
+        "Model": "Bezza",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Perodua",
+        "Model": "Myvi",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Peugeot",
+        "Model": "2008",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Peugeot",
+        "Model": "3008",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Peugeot",
+        "Model": "3008",
+        "Type": "pick_up"
+    },
+    {
+        "Maker": "Peugeot",
+        "Model": "408",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Peugeot",
+        "Model": "5008",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Peugeot",
+        "Model": "Landtrek",
+        "Type": "pick_up"
+    },
+    {
+        "Maker": "Porsche",
+        "Model": "718 Boxster",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Porsche",
+        "Model": "718 Cayman",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Porsche",
+        "Model": "911",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Porsche",
+        "Model": "911 Carrera",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Porsche",
+        "Model": "911 GT3",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Porsche",
+        "Model": "911 Targa",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Porsche",
+        "Model": "911 Turbo",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Porsche",
+        "Model": "944",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Porsche",
+        "Model": "Cayenne",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Porsche",
+        "Model": "Macan",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Porsche",
+        "Model": "Panamera",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Porsche",
+        "Model": "Taycan",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Proton",
+        "Model": "Iriz",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Proton",
+        "Model": "Persona",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Proton",
+        "Model": "S70",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Proton",
+        "Model": "Saga",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Proton",
+        "Model": "X50",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Proton",
+        "Model": "X70",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Proton",
+        "Model": "X90",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Proton",
+        "Model": "e.MAS 7",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Renault",
+        "Model": "Koleos",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Renault",
+        "Model": "Megane",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Rolls Royce",
+        "Model": "Cullinan",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Rolls Royce",
+        "Model": "Ghost",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Rolls Royce",
+        "Model": "Phantom",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Rolls Royce",
+        "Model": "Spectre",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Shineray",
+        "Model": "X30L",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Smart",
+        "Model": "Brabus",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Smart",
+        "Model": "Brabus",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Subaru",
+        "Model": "BRZ",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Subaru",
+        "Model": "Forester",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Subaru",
+        "Model": "Impreza",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Subaru",
+        "Model": "Levorg",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Subaru",
+        "Model": "Levorg",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Subaru",
+        "Model": "WRX",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Subaru",
+        "Model": "XV",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Hustler",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Jimny",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Jimny Sierra",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Spacia",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Suzuki",
+        "Model": "Swift",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Tesla",
+        "Model": "Model 3",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Tesla",
+        "Model": "Model X",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Tesla",
+        "Model": "Model Y",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "86",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Alphard",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Alphard",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "C-HR",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "C-HR",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Camry",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Copen",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Corolla",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Corolla Altis",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Corolla Cross",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Crown",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Crown",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Crown",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Esquire",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Estima",
+        "Type": "motokar_pelbagai_utiliti"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Estima",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Fortuner",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "GR86",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "GranAce",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Harrier",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Harrier",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Harrier",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Hiace",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Hilux",
+        "Type": "pick_up"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Innova",
+        "Type": "motokar_pelbagai_utiliti"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Land Cruiser",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Land Cruiser",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Land Cruiser Prado",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Mark X",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Noah",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Odyssey",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Porte",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "RAV4",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "RegiusAce",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Roomy",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Sienna",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Sprinter",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Supra",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Tank",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Vellfire",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Vellfire",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Veloz",
+        "Type": "motokar_pelbagai_utiliti"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Vios",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Voxy",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Wish",
+        "Type": "motokar_pelbagai_utiliti"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Yaris",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Toyota",
+        "Model": "Yaris",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Volkswagen",
+        "Model": "Arteon",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Volkswagen",
+        "Model": "Beetle",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Volkswagen",
+        "Model": "Golf",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Volkswagen",
+        "Model": "Karmann Ghia",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Volkswagen",
+        "Model": "Polo",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Volkswagen",
+        "Model": "Tiguan",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Volkswagen",
+        "Model": "Touareg",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Volvo",
+        "Model": "C40",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Volvo",
+        "Model": "EX30",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Volvo",
+        "Model": "S60",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Volvo",
+        "Model": "XC40",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Volvo",
+        "Model": "XC60",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Volvo",
+        "Model": "XC90",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Weststar Maxus",
+        "Model": "G10",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Weststar Maxus",
+        "Model": "MIFA 9",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Weststar Maxus",
+        "Model": "T60",
+        "Type": "pick_up"
+    },
+    {
+        "Maker": "Weststar Maxus",
+        "Model": "T90",
+        "Type": "pick_up"
+    },
+    {
+        "Maker": "Weststar Maxus",
+        "Model": "V80",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Xinneng",
+        "Model": "H9",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Xinneng",
+        "Model": "K3",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Xinneng",
+        "Model": "K8S",
+        "Type": "motokar"
+    },
+    {
+        "Maker": "Xpeng",
+        "Model": "G6",
+        "Type": "jip"
+    },
+    {
+        "Maker": "Xpeng",
+        "Model": "X9",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Zeekr",
+        "Model": "009",
+        "Type": "window_van"
+    },
+    {
+        "Maker": "Zeekr",
+        "Model": "X",
+        "Type": "jip"
+    }
+]
