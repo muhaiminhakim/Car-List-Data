@@ -1566,6 +1566,11 @@
     },
     {
         "Maker": "Proton",
+        "Model": "Exora",
+        "Type": "motokar_pelbagai_utiliti"
+    },
+    {
+        "Maker": "Proton",
         "Model": "Iriz",
         "Type": "motokar"
     },
